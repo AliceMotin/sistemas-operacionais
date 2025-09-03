@@ -1,0 +1,20 @@
+[
+{
+  "directory": "/home/bridge/Outros/sistemas-operacionais/Lista encadeada em disco/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/main.dir/main.cpp.o -c \"/home/bridge/Outros/sistemas-operacionais/Lista encadeada em disco/main.cpp\"",
+  "file": "/home/bridge/Outros/sistemas-operacionais/Lista encadeada em disco/main.cpp",
+  "output": "CMakeFiles/main.dir/main.cpp.o"
+},
+{
+  "directory": "/home/bridge/Outros/sistemas-operacionais/Lista encadeada em disco/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/main.dir/fs.cpp.o -c \"/home/bridge/Outros/sistemas-operacionais/Lista encadeada em disco/fs.cpp\"",
+  "file": "/home/bridge/Outros/sistemas-operacionais/Lista encadeada em disco/fs.cpp",
+  "output": "CMakeFiles/main.dir/fs.cpp.o"
+},
+{
+  "directory": "/home/bridge/Outros/sistemas-operacionais/Lista encadeada em disco/build",
+  "command": "/usr/bin/c++   -g -std=gnu++17 -o CMakeFiles/main.dir/sha256.cpp.o -c \"/home/bridge/Outros/sistemas-operacionais/Lista encadeada em disco/sha256.cpp\"",
+  "file": "/home/bridge/Outros/sistemas-operacionais/Lista encadeada em disco/sha256.cpp",
+  "output": "CMakeFiles/main.dir/sha256.cpp.o"
+}
+]
